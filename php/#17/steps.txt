@@ -1,0 +1,5 @@
+1. Dodati navigaciju (glavna, login, logout)
+2. Redirekcije (logout ili login vrati korisnika na index.php)
+3. Provera u navigaciji 
+   - Ako je ulogovan prikazi "Logout"
+   - Ako nije ulogovan prikazi "Login"

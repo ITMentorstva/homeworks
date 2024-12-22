@@ -1,0 +1,15 @@
+
+
+# 1. Forma za kreiranje proizvoda
+# 2. Forma za pretragu proizvoda - po naslovu
+# 3. Izlistati imena svih proizvoda prilikom pretrage
+
+
+
+BONUS: 
+Prilikom pretrage proveriti OPIS i NASLOV 
+"Jabuka"
+"Prirodno neprskano organsko voce"
+
+- Jabuka -> naslov
+- Organsko -> opis

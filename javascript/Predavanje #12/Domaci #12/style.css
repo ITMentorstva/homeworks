@@ -1,0 +1,11 @@
+#topliGradovi {
+    color: red;
+}
+
+#hladniGradovi {
+    color: blue;
+}
+
+.holder {
+    display: flex;
+}

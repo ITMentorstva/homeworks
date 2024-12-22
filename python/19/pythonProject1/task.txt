@@ -1,0 +1,9 @@
+
+
+
+1. Napraviti bazu "library" (biblioteka)
+2. Napraviti tabele:
+    -> users: id, name, dob (date of birth) DATE
+    -> books: id, name, category (teksuatlna kategorija), author (ime)
+3. Instalirati "faker" biblioteku
+    // faker.readhthedocs.io

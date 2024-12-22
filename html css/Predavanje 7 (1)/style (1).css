@@ -1,0 +1,18 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.product {
+	background-color: rgb(148, 133, 133);
+}
+
+.link {
+	background-color: green;
+	width: 250px;
+	height: 250px;
+}
+
+.f1Image {
+	width: 150px;
+}

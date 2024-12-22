@@ -1,0 +1,5 @@
+1. Ovaj kod mora biti na GIT-u!
+2. Pronadjite neki dizajn na internetu i sredite sajt
+    -> Trenutnu prognozu
+    -> prognozu za sledecih 3 dana
+    -> dugorocnu prognozu za (30 dana)

@@ -1,0 +1,17 @@
+{
+  "name": "22.-cas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch-terser": "npx watch \"npx terser script.js -o script.min.js\" "
+  },
+  "author": "Tomislav Nikolic",
+  "license": "ISC",
+  "devDependencies": {
+    "@faker-js/faker": "^9.2.0",
+    "terser": "^5.36.0",
+    "watch": "^1.0.2"
+  }
+}

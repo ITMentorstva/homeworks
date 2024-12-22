@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    background-image: url("../slike/header_pozadina.jpeg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    height: 80vh;
+    background-size: cover;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+.flex {
+    display: flex;
+}
+
+.product {
+    width: 400px;
+    background-color: #f8f8f9;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.product img {
+    width: 100%;
+}
+
+.productFooter {
+    color: rgb(193, 0, 0);
+    justify-content: space-between;
+}
+
+.productTitle {
+    font-size: 1.8rem;
+}
+
+.productDescription {
+    font-size: 1.1rem;
+}

@@ -1,0 +1,20 @@
+.podvucenTekst {
+	text-decoration: underline;
+}
+.zlatniPodnaslov {
+	color: goldenrod;
+}
+.ikonica {
+	width: 50px;
+}
+.zaokruzenaSlika {
+	border-radius: 45px;
+}
+
+.centriranSadrzaj {
+	text-align: center;
+}
+
+.plavaPozadina {
+	background-color: aquamarine;
+}

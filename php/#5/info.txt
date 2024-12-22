@@ -1,0 +1,32 @@
+
+
+GET - oni se vide u adresi 
+google.com?q=Fifa+World+Cup
+q - GET parametar
+= vrednost
+
+https://www.google.com/search?q=fifa%20world%20cup
+
+%20 = " "
+$podaci = [
+    'q' => "Fifa+World+Cup"    
+];
+
+$podaci['q']
+
+
+/auto-oglasi/pretraga?brand=alfa-romeo&model%5B%5D=147&price_to=&year_from=&year_to=&showOldNew=all&submit_1=&without_price=1
+
+$podaciIzUrla = [
+    'brand' => 'alfa-romeo',
+    'model[]' => 147,
+    'showOldNew' => 'all'
+    'price_to' => ''
+]
+
+
+
+// https://www.youtube.com/watch?v=xKQCCh6FlbU&t=145s
+
+// v = xKQCCh6FlbU - Video
+// t = 145s - Time, 145 seconds

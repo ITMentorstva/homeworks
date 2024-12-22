@@ -1,0 +1,16 @@
+.plavaPozadina {
+	background-color: blue;
+}
+
+.aquaPozadina {
+	background-color: aqua;
+}
+
+.centriranText {
+	text-align: center;
+}
+
+/* Ovo je klasa za boldovanje */
+.boldovanText {
+	font-weight: bold;
+}

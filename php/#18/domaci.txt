@@ -1,0 +1,13 @@
+
+
+    1. Registracija i login
+    2. Dodavanje proizvoda
+    3. Izlistvanje proizvoda
+    4. Pretraga proizvoda
+    5. Permalink stranica samog proizvoda
+
+
+    Ostalo je da se uradi
+    -- Sesije
+    -- Delete
+    -- Narucivanje

@@ -1,0 +1,18 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.allVideos {
+	text-align: center;
+}
+
+.videoSingle {
+	width: 20%;
+	display: inline-block;
+	margin: 15px;
+}
+.videoSingleImg {
+	width: 100%;
+	border-radius: 10px;
+}

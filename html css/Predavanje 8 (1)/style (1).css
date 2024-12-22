@@ -1,0 +1,16 @@
+.listSquare {
+	list-style-type: square;
+}
+.flexTogether {
+	display: flex;
+	gap: 20px;
+}
+
+.flex {
+	display: flex;
+	flex-wrap: wrap;
+}
+.flex p {
+	width: 60%;
+	background-color: burlywood;
+}

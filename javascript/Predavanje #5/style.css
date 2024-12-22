@@ -1,0 +1,8 @@
+.slika {
+	width: 150px;
+	border-radius: 15px;
+}
+
+.border {
+	border: 2px solid red;
+}
